@@ -1,5 +1,7 @@
-# Logo 
-Caesar-Cipher-Logo.svg
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A3BINFA/caesarcipher/main/Caesar-Cipher-Logo.svg" width="300" alt="Caesar Cipher Logo">
+</p>
 
 
 # Caesar Cipher - Interactive Cryptography Learning App
