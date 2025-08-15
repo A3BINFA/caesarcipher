@@ -1,4 +1,4 @@
-
+Caesar-Cipher-Logo.svg
 
 
 # Caesar Cipher - Interactive Cryptography Learning App
